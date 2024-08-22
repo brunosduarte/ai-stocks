@@ -1,2 +1,2 @@
 # ai-stocks
-#https://ai-stocks.streamlit.app/
+https://ai-stocks.streamlit.app/
